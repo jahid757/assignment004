@@ -156,16 +156,6 @@ input,button{
 .align-center{
     align-items: center;
 }
-.height{
-    height: 100vh;
-    position: relative;
-}
-/* .content-center{
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%,-50%);
-} */
 .request-sent input{
     font-weight: 600;
     font-size: 14px;
