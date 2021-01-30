@@ -104,5 +104,4 @@ function amountOfTicket() {
 
     const finalTotal = finalTicketPrice('total');
     document.getElementById('finalTotalPrice').value = '$ ' + finalTotal;
-
 }
